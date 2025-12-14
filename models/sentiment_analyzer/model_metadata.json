@@ -1,0 +1,62 @@
+{
+  "model_name": "Gradient Boosting + Features",
+  "test_accuracy": 0.71875,
+  "test_f1_score": 0.7177142660126431,
+  "trained_date": "2025-12-13T08:54:49.168522",
+  "all_results": [
+    {
+      "model": "Logistic Regression",
+      "type": "Traditional ML",
+      "val_accuracy": 0.7291666666666666,
+      "val_f1": 0.7281540600134214
+    },
+    {
+      "model": "Naive Bayes",
+      "type": "Traditional ML",
+      "val_accuracy": 0.71875,
+      "val_f1": 0.7164955105743962
+    },
+    {
+      "model": "Linear SVM",
+      "type": "Traditional ML",
+      "val_accuracy": 0.6822916666666666,
+      "val_f1": 0.6804726933171815
+    },
+    {
+      "model": "Random Forest",
+      "type": "Traditional ML",
+      "val_accuracy": 0.6979166666666666,
+      "val_f1": 0.6982134462245043
+    },
+    {
+      "model": "Gradient Boosting",
+      "type": "Traditional ML",
+      "val_accuracy": 0.703125,
+      "val_f1": 0.7022735539654145
+    },
+    {
+      "model": "Gradient Boosting + Features",
+      "type": "Advanced ML",
+      "val_accuracy": 0.7291666666666666,
+      "val_f1": 0.7318044092564756
+    },
+    {
+      "model": "Random Forest + Features",
+      "type": "Advanced ML",
+      "val_accuracy": 0.7135416666666666,
+      "val_f1": 0.7123348906291294
+    },
+    {
+      "model": "Extra Trees + Features",
+      "type": "Advanced ML",
+      "val_accuracy": 0.734375,
+      "val_f1": 0.7314698635793935
+    },
+    {
+      "model": "Ensemble",
+      "type": "Ensemble",
+      "val_accuracy": 0.7291666666666666,
+      "val_f1": 0.7277395552538031
+    }
+  ]
+}

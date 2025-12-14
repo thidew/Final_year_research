@@ -1,0 +1,28 @@
+{
+  "model_name": "Random Forest",
+  "test_accuracy": 1.0,
+  "test_f1_score": 1.0,
+  "trained_date": "2025-12-14T09:56:22.270478",
+  "all_results": [
+    {
+      "model": "Random Forest",
+      "val_accuracy": 1.0,
+      "val_f1": 1.0
+    },
+    {
+      "model": "XGBoost",
+      "val_accuracy": 1.0,
+      "val_f1": 1.0
+    },
+    {
+      "model": "LightGBM",
+      "val_accuracy": 1.0,
+      "val_f1": 1.0
+    },
+    {
+      "model": "Meta-Stacking Ensemble",
+      "val_accuracy": 1.0,
+      "val_f1": 1.0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "model_name": "Logistic Regression",
+  "test_accuracy": 1.0,
+  "test_f1_score": 1.0,
+  "trained_date": "2025-12-13T13:31:33.262713",
+  "all_results": [
+    {
+      "model": "Logistic Regression",
+      "val_accuracy": 1.0,
+      "val_f1": 1.0
+    },
+    {
+      "model": "Linear SVM",
+      "val_accuracy": 1.0,
+      "val_f1": 1.0
+    },
+    {
+      "model": "Random Forest",
+      "val_accuracy": 1.0,
+      "val_f1": 1.0
+    },
+    {
+      "model": "Ensemble",
+      "val_accuracy": 1.0,
+      "val_f1": 1.0
+    }
+  ]
+}
