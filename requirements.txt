@@ -1,0 +1,49 @@
+# Core ML & Data
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Deep Learning
+tensorflow>=2.13.0
+torch>=2.0.0
+transformers>=4.30.0
+
+# Advanced ML
+xgboost>=1.7.0
+lightgbm>=4.0.0
+optuna>=3.3.0
+imbalanced-learn>=0.11.0
+
+# NLP Libraries
+nltk>=3.8.0
+spacy>=3.6.0
+textblob>=0.17.0
+vaderSentiment>=3.3.0
+
+# Visualization
+plotly>=5.15.0
+seaborn>=0.12.0
+matplotlib>=3.7.0
+
+# Model Interpretability
+shap>=0.42.0
+lime>=0.2.0
+
+# Web Framework
+streamlit>=1.28.0
+fastapi>=0.100.0
+uvicorn>=0.23.0
+
+# Utilities
+openpyxl>=3.1.0
+python-multipart>=0.0.6
+tqdm>=4.65.0
+
+# Reporting
+fpdf>=1.7.2
+reportlab>=4.0.0
+jinja2>=3.1.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.25.0

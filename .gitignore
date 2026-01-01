@@ -1,0 +1,22 @@
+__pycache__/
+
+*.pyc
+.env
+.vscode/
+dist/
+build/
+*.egg-info/
+.DS_Store
+
+# Virtual environments
+venv/
+venv_short/
+venv_new/
+.venv/
+env/
+ENV/
+
+# Local models/data if they are large or sensitive (optional, but good practice)
+# *.pkl
+*.model
+*.bin

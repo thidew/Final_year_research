@@ -1,0 +1,391 @@
+text,action,category,cleaned_text,char_count,word_count,sentiment_score
+Action needed: Spa therapist was chatting during the massage.,Recreation Staff Review,Recreation,action needed spa therapist wa chatting during the massage,61,9,0
+Asked for no onions but got onions anyway.,Staff Training (Food),Food,asked for no onion but got onion anyway,42,8,0
+No one told us about the construction noise. Terrible.,Staff Communication Training,Services,no one told u about the construction noise terrible,54,9,-2
+Review: The food tasted slightly spoiled and smelled bad.,Inspect Kitchen Hygiene,Food,review the food tasted slightly spoiled and smelled bad,57,9,-1
+staff didn't know the ingredients of the dishes.,Staff Training (Food),Food,staff didnt know the ingredient of the dish,48,8,0
+Not happy. The TV is tiny and has no channels.,Upgrade Room Amenities,Rooms,not happy the tv is tiny and ha no channel,46,10,0
+Review: Activity director was rude to the guests.,Recreation Staff Review,Recreation,review activity director wa rude to the guest,49,8,-1
+"Not happy. Key cards didn't work, had to go back down.",Review Check-in Process,Services,not happy key card didnt work had to go back down,54,11,0
+"Honestly, staff speaks very poor english, hard to communicate.",Staff Communication Training,Services,honestly staff speaks very poor english hard to communicate,62,9,-1
+"Not happy. Towels are thin, scratchy, and old.",Upgrade Room Amenities,Rooms,not happy towel are thin scratchy and old,46,8,-1
+Feedback: Entertainment team was low energy and boring.,Recreation Staff Review,Recreation,feedback entertainment team wa low energy and boring,55,8,0
+Not happy. The dessert was stale and dry.,Revise Menu Quality,Food,not happy the dessert wa stale and dry,41,8,0
+Staff didn't know the ingredients of the dishes.,Staff Training (Food),Food,staff didnt know the ingredient of the dish,48,8,0
+they demanded a cash deposit unexpectedly.,Review Check-in Process,Services,they demanded a cash deposit unexpectedly,42,6,0
+I want a refund for this terrible meal.,Compensate Guest,Food,i want a refund for this terrible meal,39,8,-1
+Not enough weights for a proper workout.,Update Gym Equipment,Recreation,not enough weight for a proper workout,40,7,0
+Action needed: They couldn't find my booking in the system.,Review Check-in Process,Services,action needed they couldnt find my booking in the system,59,10,0
+Review: Curtains were dusty and triggered my allergies.,Deep Clean & Maintenance,Rooms,review curtain were dusty and triggered my allergy,55,8,0
+"Honestly, the presentation of the dishes was poor.",Revise Menu Quality,Food,honestly the presentation of the dish wa poor,50,8,-1
+Action needed: The bathroom tiles had mold in the grout.,Deep Clean & Maintenance,Rooms,action needed the bathroom tile had mold in the grout,56,10,-1
+Action needed: I got food poisoning after eating the seafood.,Inspect Kitchen Hygiene,Food,action needed i got food poisoning after eating the seafood,61,10,0
+Staff seemed confused by the check-in software.,Review Check-in Process,Services,staff seemed confused by the checkin software,47,7,0
+kids club staff seemed bored and inattentive.,Recreation Staff Review,Recreation,kid club staff seemed bored and inattentive,45,7,0
+The hairdryer provided is useless and overheating. Terrible.,Upgrade Room Amenities,Rooms,the hairdryer provided is useless and overheating terrible,60,8,-1
+there was a strange object in the soup.,Inspect Kitchen Hygiene,Food,there wa a strange object in the soup,39,8,0
+Misunderstanding about the room rate caused issues.,Staff Communication Training,Services,misunderstanding about the room rate caused issue,51,7,0
+Bed bugs bit me all over my legs. Terrible.,Pest Control Investigation,Rooms,bed bug bit me all over my leg terrible,43,9,-1
+Review: Minibar was empty and not working.,Upgrade Room Amenities,Rooms,review minibar wa empty and not working,42,7,0
+Not happy. Called reception but no one answered the phone.,Staff Communication Training,Services,not happy called reception but no one answered the phone,58,10,0
+Not happy. Bartender was visibly drunk.,Disciplinary Action,Services,not happy bartender wa visibly drunk,39,6,0
+Action needed: The sheets had spots and didn't look fresh.,Deep Clean & Maintenance,Rooms,action needed the sheet had spot and didnt look fresh,58,10,0
+Not happy. The plates were dirty and had leftover food stains.,Inspect Kitchen Hygiene,Food,not happy the plate were dirty and had leftover food stain,62,11,-1
+Review: The bill included a service charge that was not mentioned.,Compensate Guest,Food,review the bill included a service charge that wa not mentioned,66,11,0
+Not happy. Lobby is chaotic and disorganized.,Review Check-in Process,Services,not happy lobby is chaotic and disorganized,45,7,0
+Entertainment team was low energy and boring.,Recreation Staff Review,Recreation,entertainment team wa low energy and boring,45,7,0
+"Need better lighting, the room is too dim.",Upgrade Room Amenities,Rooms,need better lighting the room is too dim,42,8,0
+Feedback: The server was rude when I asked for water.,Staff Training (Food),Food,feedback the server wa rude when i asked for water,53,10,-1
+Action needed: They didn't tell us the pool was under maintenance.,Staff Communication Training,Services,action needed they didnt tell u the pool wa under maintenance,66,11,0
+not enough weights for a proper workout.,Update Gym Equipment,Recreation,not enough weight for a proper workout,40,7,0
+Feedback: Bed bugs bit me all over my legs.,Pest Control Investigation,Rooms,feedback bed bug bit me all over my leg,43,9,0
+Feedback: Flies buzzing around the room constantly.,Pest Control Investigation,Rooms,feedback fly buzzing around the room constantly,51,7,0
+They couldn't find my booking in the system. Terrible.,Review Check-in Process,Services,they couldnt find my booking in the system terrible,54,9,-1
+Feedback: Scum line around the edge of the pool.,Pool Maintenance,Recreation,feedback scum line around the edge of the pool,48,9,0
+Action needed: The bathroom tiles had mold in the grout.,Deep Clean & Maintenance,Rooms,action needed the bathroom tile had mold in the grout,56,10,-1
+"Honestly, too much chlorine in the pool, burned my eyes.",Pool Maintenance,Recreation,honestly too much chlorine in the pool burned my eye,56,10,0
+found trash from previous guests in the drawer.,Deep Clean & Maintenance,Rooms,found trash from previous guest in the drawer,47,8,0
+Review: The concierge made a rude comment about my appearance.,Disciplinary Action,Services,review the concierge made a rude comment about my appearance,62,10,-1
+Review: There was a spider on the pillow.,Pest Control Investigation,Rooms,review there wa a spider on the pillow,41,8,0
+Action needed: Found trash from previous guests in the drawer.,Deep Clean & Maintenance,Rooms,action needed found trash from previous guest in the drawer,62,10,0
+Not happy. The carpet was stained and smelled of mold.,Deep Clean & Maintenance,Rooms,not happy the carpet wa stained and smelled of mold,54,10,-1
+Action needed: The buffet area looked unclean and messy.,Inspect Kitchen Hygiene,Food,action needed the buffet area looked unclean and messy,56,9,0
+"Honestly, i got food poisoning after eating the seafood.",Inspect Kitchen Hygiene,Food,honestly i got food poisoning after eating the seafood,56,9,0
+Action needed: Conflicting information from different staff members.,Staff Communication Training,Services,action needed conflicting information from different staff member,68,8,0
+Feedback: Staff member was smoking right outside the lobby door.,Disciplinary Action,Services,feedback staff member wa smoking right outside the lobby door,64,10,0
+Bike seat is broken.,Update Gym Equipment,Recreation,bike seat is broken,20,4,-1
+No one came to clear our table for 30 minutes.,Staff Training (Food),Food,no one came to clear our table for minute,46,10,0
+Not happy. The coffee was burnt and bitter.,Revise Menu Quality,Food,not happy the coffee wa burnt and bitter,43,8,0
+Minibar was empty and not working. Terrible.,Upgrade Room Amenities,Rooms,minibar wa empty and not working terrible,44,7,-1
+Action needed: The salad was wilted and brown.,Inspect Kitchen Hygiene,Food,action needed the salad wa wilted and brown,46,8,0
+"Review: The gym smells like sweat, no ventilation.",Update Gym Equipment,Recreation,review the gym smell like sweat no ventilation,50,8,0
+Feedback: The salad was wilted and brown.,Inspect Kitchen Hygiene,Food,feedback the salad wa wilted and brown,41,7,0
+Not happy. The room is infested with insects.,Pest Control Investigation,Rooms,not happy the room is infested with insect,45,8,0
+The room is infested with insects.,Pest Control Investigation,Rooms,the room is infested with insect,34,6,0
+Feedback: Seasonal dishes listed on the menu were not available.,Revise Menu Quality,Food,feedback seasonal dish listed on the menu were not available,64,10,0
+"Honestly, no iron or ironing board in the room.",Upgrade Room Amenities,Rooms,honestly no iron or ironing board in the room,47,9,0
+Feedback: Everything tastes like frozen food reheated.,Revise Menu Quality,Food,feedback everything taste like frozen food reheated,54,7,0
+Feedback: The pillows are lumpy and uncomfortable.,Upgrade Room Amenities,Rooms,feedback the pillow are lumpy and uncomfortable,50,7,0
+Feedback: Seasonal dishes listed on the menu were not available.,Revise Menu Quality,Food,feedback seasonal dish listed on the menu were not available,64,10,0
+housekeeper stole money from my wallet.,Disciplinary Action,Services,housekeeper stole money from my wallet,39,6,0
+Feedback: Our anniversary dinner was ruined by the terrible service.,Compensate Guest,Food,feedback our anniversary dinner wa ruined by the terrible service,68,10,-1
+Review: Saw a cockroach near the kitchen entrance.,Inspect Kitchen Hygiene,Food,review saw a cockroach near the kitchen entrance,50,8,0
+It took 45 minutes just to check in. Terrible.,Review Check-in Process,Services,it took minute just to check in terrible,46,9,-1
+Not happy. The waiter spilled soup on me and didn't apologize.,Staff Training (Food),Food,not happy the waiter spilled soup on me and didnt apologize,62,11,0
+everything tastes like frozen food reheated.,Revise Menu Quality,Food,everything taste like frozen food reheated,44,6,0
+The TV is tiny and has no channels. Terrible.,Upgrade Room Amenities,Rooms,the tv is tiny and ha no channel terrible,45,9,-1
+Review: Tour guide gave us incorrect historical info.,Recreation Staff Review,Recreation,review tour guide gave u incorrect historical info,53,8,0
+Review: Food was cold when it arrived at the table.,Revise Menu Quality,Food,review food wa cold when it arrived at the table,51,10,-1
+"Review: Key cards didn't work, had to go back down.",Review Check-in Process,Services,review key card didnt work had to go back down,51,10,0
+Water looked stagnant and dirty. Terrible.,Pool Maintenance,Recreation,water looked stagnant and dirty terrible,42,6,-2
+Feedback: They didn't tell us the pool was under maintenance.,Staff Communication Training,Services,feedback they didnt tell u the pool wa under maintenance,61,10,0
+The coffee was burnt and bitter. Terrible.,Revise Menu Quality,Food,the coffee wa burnt and bitter terrible,42,7,-1
+Review: Bike seat is broken.,Update Gym Equipment,Recreation,review bike seat is broken,28,5,-1
+"Honestly, bellboy didn't explain how to use the key card.",Staff Communication Training,Services,honestly bellboy didnt explain how to use the key card,57,10,0
+Feedback: Seasonal dishes listed on the menu were not available.,Revise Menu Quality,Food,feedback seasonal dish listed on the menu were not available,64,10,0
+bartender was visibly drunk.,Disciplinary Action,Services,bartender wa visibly drunk,28,4,0
+We were promised a complimentary drink but never got it.,Compensate Guest,Food,we were promised a complimentary drink but never got it,56,10,0
+Review:  Filtration system was making a loud noise.,Pool Maintenance,Recreation,review filtration system wa making a loud noise,51,8,0
+Action needed: Flies buzzing around the room constantly.,Pest Control Investigation,Rooms,action needed fly buzzing around the room constantly,56,8,0
+"Honestly, the food tasted slightly spoiled and smelled bad.",Inspect Kitchen Hygiene,Food,honestly the food tasted slightly spoiled and smelled bad,59,9,-1
+"Honestly, no iron or ironing board in the room.",Upgrade Room Amenities,Rooms,honestly no iron or ironing board in the room,47,9,0
+Review: The carpet was stained and smelled of mold.,Deep Clean & Maintenance,Rooms,review the carpet wa stained and smelled of mold,51,9,-1
+"Honestly, charged 5 stars price for 1 star food.",Compensate Guest,Food,honestly charged star price for star food,48,9,0
+Employee was on their phone ignoring guests.,Disciplinary Action,Services,employee wa on their phone ignoring guest,44,7,0
+Action needed: Front desk staff gave us wrong information about breakfast.,Staff Communication Training,Services,action needed front desk staff gave u wrong information about breakfast,74,11,0
+water looked stagnant and dirty.,Pool Maintenance,Recreation,water looked stagnant and dirty,32,5,-1
+Feedback: Elliptical machine makes a squeaking sound.,Update Gym Equipment,Recreation,feedback elliptical machine make a squeaking sound,53,7,0
+Feedback: It took 45 minutes just to check in.,Review Check-in Process,Services,feedback it took minute just to check in,46,9,0
+Elliptical machine makes a squeaking sound.,Update Gym Equipment,Recreation,elliptical machine make a squeaking sound,43,6,0
+"Need better lighting, the room is too dim. Terrible.",Upgrade Room Amenities,Rooms,need better lighting the room is too dim terrible,52,9,-1
+Action needed: Room wasn't ready at 4 PM check-in time.,Review Check-in Process,Services,action needed room wasnt ready at pm checkin time,55,10,0
+the buffet area looked unclean and messy.,Inspect Kitchen Hygiene,Food,the buffet area looked unclean and messy,41,7,0
+Review: Evidence of termites in the wooden furniture.,Pest Control Investigation,Rooms,review evidence of termite in the wooden furniture,53,8,0
+Not happy. Bellboy didn't explain how to use the key card.,Staff Communication Training,Services,not happy bellboy didnt explain how to use the key card,58,11,0
+I found a hair in my food. Terrible.,Inspect Kitchen Hygiene,Food,i found a hair in my food terrible,36,8,-1
+Feedback: Hygiene standards in the restaurant seem very low.,Inspect Kitchen Hygiene,Food,feedback hygiene standard in the restaurant seem very low,60,9,0
+Review: Room wasn't ready at 4 PM check-in time.,Review Check-in Process,Services,review room wasnt ready at pm checkin time,48,9,0
+Action needed: Conflicting information from different staff members.,Staff Communication Training,Services,action needed conflicting information from different staff member,68,8,0
+they charged us for items we didn't order.,Compensate Guest,Food,they charged u for item we didnt order,42,8,0
+Feedback: Curtains were dusty and triggered my allergies.,Deep Clean & Maintenance,Rooms,feedback curtain were dusty and triggered my allergy,57,8,0
+"Honestly, the furniture is worn out and chipped.",Upgrade Room Amenities,Rooms,honestly the furniture is worn out and chipped,48,8,0
+Staff seemed confused by the check-in software. Terrible.,Review Check-in Process,Services,staff seemed confused by the checkin software terrible,57,8,-1
+Dead bugs on the windowsill.,Deep Clean & Maintenance,Rooms,dead bug on the windowsill,28,5,0
+Review: Staff was arguing loudly in the hallway.,Disciplinary Action,Services,review staff wa arguing loudly in the hallway,48,8,0
+Review: Bed bugs bit me all over my legs.,Pest Control Investigation,Rooms,review bed bug bit me all over my leg,41,9,0
+Windows were dirty and hard to see through. Terrible.,Deep Clean & Maintenance,Rooms,window were dirty and hard to see through terrible,53,9,-2
+"Honestly, restaurant manager was shouting at the staff.",Staff Training (Food),Food,honestly restaurant manager wa shouting at the staff,55,8,0
+Action needed: Bike seat is broken.,Update Gym Equipment,Recreation,action needed bike seat is broken,35,6,-1
+Feedback:  Filtration system was making a loud noise.,Pool Maintenance,Recreation,feedback filtration system wa making a loud noise,53,8,0
+Feedback: Bed bugs bit me all over my legs.,Pest Control Investigation,Rooms,feedback bed bug bit me all over my leg,43,9,0
+Action needed: The bill included a service charge that was not mentioned.,Compensate Guest,Food,action needed the bill included a service charge that wa not mentioned,73,12,0
+Employee was on their phone ignoring guests. Terrible.,Disciplinary Action,Services,employee wa on their phone ignoring guest terrible,54,8,-1
+It took 45 minutes just to check in. Terrible.,Review Check-in Process,Services,it took minute just to check in terrible,46,9,-1
+The dessert was stale and dry. Terrible.,Revise Menu Quality,Food,the dessert wa stale and dry terrible,40,7,-1
+there was a spider on the pillow.,Pest Control Investigation,Rooms,there wa a spider on the pillow,33,7,0
+"Honestly, bartender was visibly drunk.",Disciplinary Action,Services,honestly bartender wa visibly drunk,38,5,0
+Not happy. Yoga mats are torn and dirty.,Update Gym Equipment,Recreation,not happy yoga mat are torn and dirty,40,8,-1
+The pool water was cloudy and green. Terrible.,Pool Maintenance,Recreation,the pool water wa cloudy and green terrible,46,8,-1
+the toilet wasn't flushed when we arrived.,Deep Clean & Maintenance,Rooms,the toilet wasnt flushed when we arrived,42,7,0
+Action needed: They charged us for items we didn't order.,Compensate Guest,Food,action needed they charged u for item we didnt order,57,10,0
+"Honestly, there was a spider on the pillow.",Pest Control Investigation,Rooms,honestly there wa a spider on the pillow,43,8,0
+"Action needed: Too much chlorine in the pool, burned my eyes.",Pool Maintenance,Recreation,action needed too much chlorine in the pool burned my eye,61,11,0
+Not happy. The salad was wilted and brown.,Inspect Kitchen Hygiene,Food,not happy the salad wa wilted and brown,42,8,0
+The TV is tiny and has no channels.,Upgrade Room Amenities,Rooms,the tv is tiny and ha no channel,35,8,0
+Action needed: The furniture is worn out and chipped.,Upgrade Room Amenities,Rooms,action needed the furniture is worn out and chipped,53,9,0
+"dust everywhere, especially under the bed.",Deep Clean & Maintenance,Rooms,dust everywhere especially under the bed,42,6,0
+Action needed: Pool attendant refused to give me a towel.,Recreation Staff Review,Recreation,action needed pool attendant refused to give me a towel,57,10,0
+Review: Staff didn't know the ingredients of the dishes.,Staff Training (Food),Food,review staff didnt know the ingredient of the dish,56,9,0
+"Honestly, tour guide gave us incorrect historical info.",Recreation Staff Review,Recreation,honestly tour guide gave u incorrect historical info,55,8,0
+"Honestly, the server was rude when i asked for water.",Staff Training (Food),Food,honestly the server wa rude when i asked for water,53,10,-1
+Entertainment team was low energy and boring.,Recreation Staff Review,Recreation,entertainment team wa low energy and boring,45,7,0
+tennis coach didn't show up for the lesson.,Recreation Staff Review,Recreation,tennis coach didnt show up for the lesson,43,8,0
+the food tasted slightly spoiled and smelled bad.,Inspect Kitchen Hygiene,Food,the food tasted slightly spoiled and smelled bad,49,8,-1
+Saw ants marching across the bathroom sink.,Pest Control Investigation,Rooms,saw ant marching across the bathroom sink,43,7,0
+Staff got my order wrong three times.,Staff Training (Food),Food,staff got my order wrong three time,37,7,0
+Review: Asked for no onions but got onions anyway.,Staff Training (Food),Food,review asked for no onion but got onion anyway,50,9,0
+No supervision in the children's play area.,Recreation Staff Review,Recreation,no supervision in the childrens play area,43,7,0
+Action needed: Valet scratched my car and denied it.,Disciplinary Action,Services,action needed valet scratched my car and denied it,52,9,0
+Action needed: Found trash from previous guests in the drawer.,Deep Clean & Maintenance,Rooms,action needed found trash from previous guest in the drawer,62,10,0
+Not happy. Restaurant manager was shouting at the staff.,Staff Training (Food),Food,not happy restaurant manager wa shouting at the staff,56,9,0
+Action needed: Not enough weights for a proper workout.,Update Gym Equipment,Recreation,action needed not enough weight for a proper workout,55,9,0
+Misunderstanding about the room rate caused issues.,Staff Communication Training,Services,misunderstanding about the room rate caused issue,51,7,0
+Action needed: The menu options are very limited and boring.,Revise Menu Quality,Food,action needed the menu option are very limited and boring,60,10,0
+Feedback: Spa therapist was chatting during the massage.,Recreation Staff Review,Recreation,feedback spa therapist wa chatting during the massage,56,8,0
+Feedback: The room smelled like stale cigarette smoke.,Deep Clean & Maintenance,Rooms,feedback the room smelled like stale cigarette smoke,54,8,0
+Not happy. No supervision in the children's play area.,Recreation Staff Review,Recreation,not happy no supervision in the childrens play area,54,9,0
+Action needed: Concierge was unable to give simple directions.,Staff Communication Training,Services,action needed concierge wa unable to give simple direction,62,9,0
+Not happy. Staff was arguing loudly in the hallway.,Disciplinary Action,Services,not happy staff wa arguing loudly in the hallway,51,9,0
+Activity director was rude to the guests. Terrible.,Recreation Staff Review,Recreation,activity director wa rude to the guest terrible,51,8,-2
+Feedback: Called reception but no one answered the phone.,Staff Communication Training,Services,feedback called reception but no one answered the phone,57,9,0
+Feedback: Cockroach in the shower.,Pest Control Investigation,Rooms,feedback cockroach in the shower,34,5,0
+Action needed: Staff member was smoking right outside the lobby door.,Disciplinary Action,Services,action needed staff member wa smoking right outside the lobby door,69,11,0
+Feedback: I think I saw a mouse behind the curtain.,Pest Control Investigation,Rooms,feedback i think i saw a mouse behind the curtain,51,10,0
+Spa therapist was chatting during the massage.,Recreation Staff Review,Recreation,spa therapist wa chatting during the massage,46,7,0
+Feedback: Staff member laughed at my complaint.,Disciplinary Action,Services,feedback staff member laughed at my complaint,47,7,0
+Review: The carpet was stained and smelled of mold.,Deep Clean & Maintenance,Rooms,review the carpet wa stained and smelled of mold,51,9,-1
+The pool water was cloudy and green.,Pool Maintenance,Recreation,the pool water wa cloudy and green,36,7,0
+Air conditioner is loud and barely cools the room.,Upgrade Room Amenities,Rooms,air conditioner is loud and barely cool the room,50,9,0
+Feedback: They charged us for items we didn't order.,Compensate Guest,Food,feedback they charged u for item we didnt order,52,9,0
+Feedback: Elliptical machine makes a squeaking sound.,Update Gym Equipment,Recreation,feedback elliptical machine make a squeaking sound,53,7,0
+"Honestly, gym is too small for the number of guests.",Update Gym Equipment,Recreation,honestly gym is too small for the number of guest,52,10,-1
+Review: I got food poisoning after eating the seafood.,Inspect Kitchen Hygiene,Food,review i got food poisoning after eating the seafood,54,9,0
+"Review: Worst dining experience ever, I expect compensation.",Compensate Guest,Food,review worst dining experience ever i expect compensation,60,8,-1
+Review: Staff was arguing loudly in the hallway.,Disciplinary Action,Services,review staff wa arguing loudly in the hallway,48,8,0
+Action needed: I think I saw a mouse behind the curtain.,Pest Control Investigation,Rooms,action needed i think i saw a mouse behind the curtain,56,11,0
+Action needed: Glass had lipstick marks on it.,Inspect Kitchen Hygiene,Food,action needed glass had lipstick mark on it,46,8,0
+staff seemed confused by the check-in software.,Review Check-in Process,Services,staff seemed confused by the checkin software,47,7,0
+"Pool was freezing cold, heater broken.",Pool Maintenance,Recreation,pool wa freezing cold heater broken,38,6,-2
+"Honestly, key cards didn't work, had to go back down.",Review Check-in Process,Services,honestly key card didnt work had to go back down,53,10,0
+Action needed: Elliptical machine makes a squeaking sound.,Update Gym Equipment,Recreation,action needed elliptical machine make a squeaking sound,58,8,0
+Bellboy didn't explain how to use the key card. Terrible.,Staff Communication Training,Services,bellboy didnt explain how to use the key card terrible,57,10,-1
+Staff member laughed at my complaint. Terrible.,Disciplinary Action,Services,staff member laughed at my complaint terrible,47,7,-1
+Action needed: The room smelled like stale cigarette smoke.,Deep Clean & Maintenance,Rooms,action needed the room smelled like stale cigarette smoke,59,9,0
+"Honestly, the carpet was stained and smelled of mold.",Deep Clean & Maintenance,Rooms,honestly the carpet wa stained and smelled of mold,53,9,-1
+Tiles around the pool are broken and sharp.,Pool Maintenance,Recreation,tile around the pool are broken and sharp,43,8,-1
+i think i saw a mouse behind the curtain.,Pest Control Investigation,Rooms,i think i saw a mouse behind the curtain,41,9,0
+Feedback: Gym equipment is ancient and rusty.,Update Gym Equipment,Recreation,feedback gym equipment is ancient and rusty,45,7,0
+"Feedback: Need better lighting, the room is too dim.",Upgrade Room Amenities,Rooms,feedback need better lighting the room is too dim,52,9,0
+They refused to accept my voucher.,Compensate Guest,Food,they refused to accept my voucher,34,6,0
+Water looked stagnant and dirty. Terrible.,Pool Maintenance,Recreation,water looked stagnant and dirty terrible,42,6,-2
+the buffet area looked unclean and messy.,Inspect Kitchen Hygiene,Food,the buffet area looked unclean and messy,41,7,0
+Scum line around the edge of the pool. Terrible.,Pool Maintenance,Recreation,scum line around the edge of the pool terrible,48,9,-1
+Action needed: No one told us about the construction noise.,Staff Communication Training,Services,action needed no one told u about the construction noise,59,10,-1
+Review: The presentation of the dishes was poor.,Revise Menu Quality,Food,review the presentation of the dish wa poor,48,8,-1
+I think I saw a mouse behind the curtain.,Pest Control Investigation,Rooms,i think i saw a mouse behind the curtain,41,9,0
+Review: System crashed during check-in.,Review Check-in Process,Services,review system crashed during checkin,39,5,0
+Action needed: Cockroach in the shower.,Pest Control Investigation,Rooms,action needed cockroach in the shower,39,6,0
+windows were dirty and hard to see through.,Deep Clean & Maintenance,Rooms,window were dirty and hard to see through,43,8,-1
+Employee was on their phone ignoring guests. Terrible.,Disciplinary Action,Services,employee wa on their phone ignoring guest terrible,54,8,-1
+Not happy. Beach staff demanded tips for chairs.,Recreation Staff Review,Recreation,not happy beach staff demanded tip for chair,48,8,0
+Not happy. They lost our reservation even though we booked weeks ago.,Compensate Guest,Food,not happy they lost our reservation even though we booked week ago,69,12,0
+Not happy. The coffee was burnt and bitter.,Revise Menu Quality,Food,not happy the coffee wa burnt and bitter,43,8,0
+Not happy. The room is infested with insects.,Pest Control Investigation,Rooms,not happy the room is infested with insect,45,8,0
+i think i saw a mouse behind the curtain.,Pest Control Investigation,Rooms,i think i saw a mouse behind the curtain,41,9,0
+Not happy. Food was cold when it arrived at the table.,Revise Menu Quality,Food,not happy food wa cold when it arrived at the table,54,11,-1
+Not happy. Spa therapist was chatting during the massage.,Recreation Staff Review,Recreation,not happy spa therapist wa chatting during the massage,57,9,0
+Feedback: Our anniversary dinner was ruined by the terrible service.,Compensate Guest,Food,feedback our anniversary dinner wa ruined by the terrible service,68,10,-1
+"the gym smells like sweat, no ventilation.",Update Gym Equipment,Recreation,the gym smell like sweat no ventilation,42,7,0
+"Towels are thin, scratchy, and old.",Upgrade Room Amenities,Rooms,towel are thin scratchy and old,35,6,-1
+Glass had lipstick marks on it.,Inspect Kitchen Hygiene,Food,glass had lipstick mark on it,31,6,0
+Kids club staff seemed bored and inattentive. Terrible.,Recreation Staff Review,Recreation,kid club staff seemed bored and inattentive terrible,55,8,-1
+they demanded a cash deposit unexpectedly.,Review Check-in Process,Services,they demanded a cash deposit unexpectedly,42,6,0
+Called reception but no one answered the phone.,Staff Communication Training,Services,called reception but no one answered the phone,47,8,0
+staff member laughed at my complaint.,Disciplinary Action,Services,staff member laughed at my complaint,37,6,0
+No water or towels available in the gym. Terrible.,Update Gym Equipment,Recreation,no water or towel available in the gym terrible,50,9,-1
+Feedback: Cable machine is stuck and dangerous.,Update Gym Equipment,Recreation,feedback cable machine is stuck and dangerous,47,7,0
+Not happy. The pillows are lumpy and uncomfortable.,Upgrade Room Amenities,Rooms,not happy the pillow are lumpy and uncomfortable,51,8,0
+Review: Gym is too small for the number of guests.,Update Gym Equipment,Recreation,review gym is too small for the number of guest,50,10,-1
+no iron or ironing board in the room.,Upgrade Room Amenities,Rooms,no iron or ironing board in the room,37,8,0
+the dessert was stale and dry.,Revise Menu Quality,Food,the dessert wa stale and dry,30,6,0
+Not happy. Spa therapist was chatting during the massage.,Recreation Staff Review,Recreation,not happy spa therapist wa chatting during the massage,57,9,0
+scum line around the edge of the pool.,Pool Maintenance,Recreation,scum line around the edge of the pool,38,8,0
+Feedback: Pool shower wasn't working.,Pool Maintenance,Recreation,feedback pool shower wasnt working,37,5,0
+"Honestly, no iron or ironing board in the room.",Upgrade Room Amenities,Rooms,honestly no iron or ironing board in the room,47,9,0
+"Too much chlorine in the pool, burned my eyes.",Pool Maintenance,Recreation,too much chlorine in the pool burned my eye,46,9,0
+"Honestly, saw ants marching across the bathroom sink.",Pest Control Investigation,Rooms,honestly saw ant marching across the bathroom sink,53,8,0
+"Honestly, i want a refund for this terrible meal.",Compensate Guest,Food,honestly i want a refund for this terrible meal,49,9,-1
+They didn't tell us the pool was under maintenance. Terrible.,Staff Communication Training,Services,they didnt tell u the pool wa under maintenance terrible,61,10,-1
+Action needed: Entertainment team was low energy and boring.,Recreation Staff Review,Recreation,action needed entertainment team wa low energy and boring,60,9,0
+Action needed: Water looked stagnant and dirty.,Pool Maintenance,Recreation,action needed water looked stagnant and dirty,47,7,-1
+"Honestly, lobby is chaotic and disorganized.",Review Check-in Process,Services,honestly lobby is chaotic and disorganized,44,6,0
+Review: Pool shower wasn't working.,Pool Maintenance,Recreation,review pool shower wasnt working,35,5,0
+Our anniversary dinner was ruined by the terrible service. Terrible.,Compensate Guest,Food,our anniversary dinner wa ruined by the terrible service terrible,68,10,-1
+Feedback: Charged 5 stars price for 1 star food.,Compensate Guest,Food,feedback charged star price for star food,48,9,0
+Feedback: The hairdryer provided is useless and overheating.,Upgrade Room Amenities,Rooms,feedback the hairdryer provided is useless and overheating,60,8,0
+Action needed: Tennis coach didn't show up for the lesson.,Recreation Staff Review,Recreation,action needed tennis coach didnt show up for the lesson,58,10,0
+elliptical machine makes a squeaking sound.,Update Gym Equipment,Recreation,elliptical machine make a squeaking sound,43,6,0
+Action needed: Staff got my order wrong three times.,Staff Training (Food),Food,action needed staff got my order wrong three time,52,9,0
+Elliptical machine makes a squeaking sound. Terrible.,Update Gym Equipment,Recreation,elliptical machine make a squeaking sound terrible,53,7,-1
+Bartender was visibly drunk. Terrible.,Disciplinary Action,Services,bartender wa visibly drunk terrible,38,5,-1
+Not happy. Mosquitoes in the room kept me up all night.,Pest Control Investigation,Rooms,not happy mosquito in the room kept me up all night,55,11,0
+Action needed: Flies buzzing around the room constantly.,Pest Control Investigation,Rooms,action needed fly buzzing around the room constantly,56,8,0
+"pool was freezing cold, heater broken.",Pool Maintenance,Recreation,pool wa freezing cold heater broken,38,6,-2
+"Honestly, pool shower wasn't working.",Pool Maintenance,Recreation,honestly pool shower wasnt working,37,5,0
+"Honestly, the salad was wilted and brown.",Inspect Kitchen Hygiene,Food,honestly the salad wa wilted and brown,41,7,0
+Feedback: Not enough weights for a proper workout.,Update Gym Equipment,Recreation,feedback not enough weight for a proper workout,50,8,0
+We were promised a complimentary drink but never got it.,Compensate Guest,Food,we were promised a complimentary drink but never got it,56,10,0
+Not happy. Check-in line was huge and only one counter open.,Review Check-in Process,Services,not happy checkin line wa huge and only one counter open,60,11,0
+Feedback: Spa therapist was chatting during the massage.,Recreation Staff Review,Recreation,feedback spa therapist wa chatting during the massage,56,8,0
+Curtains were dusty and triggered my allergies.,Deep Clean & Maintenance,Rooms,curtain were dusty and triggered my allergy,47,7,0
+water looked stagnant and dirty.,Pool Maintenance,Recreation,water looked stagnant and dirty,32,5,-1
+the dessert was stale and dry.,Revise Menu Quality,Food,the dessert wa stale and dry,30,6,0
+Elliptical machine makes a squeaking sound.,Update Gym Equipment,Recreation,elliptical machine make a squeaking sound,43,6,0
+Feedback: Air conditioner is loud and barely cools the room.,Upgrade Room Amenities,Rooms,feedback air conditioner is loud and barely cool the room,60,10,0
+Feedback: The presentation of the dishes was poor.,Revise Menu Quality,Food,feedback the presentation of the dish wa poor,50,8,-1
+The plates were dirty and had leftover food stains.,Inspect Kitchen Hygiene,Food,the plate were dirty and had leftover food stain,51,9,-1
+Action needed: Front desk staff gave us wrong information about breakfast.,Staff Communication Training,Services,action needed front desk staff gave u wrong information about breakfast,74,11,0
+The plates were dirty and had leftover food stains.,Inspect Kitchen Hygiene,Food,the plate were dirty and had leftover food stain,51,9,-1
+The bill included a service charge that was not mentioned. Terrible.,Compensate Guest,Food,the bill included a service charge that wa not mentioned terrible,68,11,-1
+Not happy. Housekeeper stole money from my wallet.,Disciplinary Action,Services,not happy housekeeper stole money from my wallet,50,8,0
+ Filtration system was making a loud noise.,Pool Maintenance,Recreation,filtration system wa making a loud noise,43,7,0
+Tennis coach didn't show up for the lesson.,Recreation Staff Review,Recreation,tennis coach didnt show up for the lesson,43,8,0
+Not happy. Found trash from previous guests in the drawer.,Deep Clean & Maintenance,Rooms,not happy found trash from previous guest in the drawer,58,10,0
+Review: The concierge made a rude comment about my appearance.,Disciplinary Action,Services,review the concierge made a rude comment about my appearance,62,10,-1
+Not happy. Priority check-in for members was not honored.,Review Check-in Process,Services,not happy priority checkin for member wa not honored,57,9,0
+They forgot to give us our wake-up call. Terrible.,Staff Communication Training,Services,they forgot to give u our wakeup call terrible,50,9,-1
+Review: Waiters were ignoring us and chatting among themselves.,Staff Training (Food),Food,review waiter were ignoring u and chatting among themselves,63,9,0
+Not happy. The steak was tough and flavorless.,Revise Menu Quality,Food,not happy the steak wa tough and flavorless,46,8,0
+"Not happy. Staff speaks very poor English, hard to communicate.",Staff Communication Training,Services,not happy staff speaks very poor english hard to communicate,63,10,-1
+the pasta was overcooked and mushy.,Revise Menu Quality,Food,the pasta wa overcooked and mushy,35,6,0
+Action needed: The server was rude when I asked for water.,Staff Training (Food),Food,action needed the server wa rude when i asked for water,58,11,-1
+"Honestly, unprofessional behavior from the night manager.",Disciplinary Action,Services,honestly unprofessional behavior from the night manager,57,7,0
+Review: Charged 5 stars price for 1 star food.,Compensate Guest,Food,review charged star price for star food,46,9,0
+Feedback: Priority check-in for members was not honored.,Review Check-in Process,Services,feedback priority checkin for member wa not honored,56,8,0
+Everything tastes like frozen food reheated. Terrible.,Revise Menu Quality,Food,everything taste like frozen food reheated terrible,54,7,-1
+the food tasted slightly spoiled and smelled bad.,Inspect Kitchen Hygiene,Food,the food tasted slightly spoiled and smelled bad,49,8,-1
+Housekeeper stole money from my wallet.,Disciplinary Action,Services,housekeeper stole money from my wallet,39,6,0
+Action needed: Tour guide gave us incorrect historical info.,Recreation Staff Review,Recreation,action needed tour guide gave u incorrect historical info,60,9,0
+"Review: Too much chlorine in the pool, burned my eyes.",Pool Maintenance,Recreation,review too much chlorine in the pool burned my eye,54,10,0
+They refused to accept my voucher. Terrible.,Compensate Guest,Food,they refused to accept my voucher terrible,44,7,-1
+Action needed: Waiters were ignoring us and chatting among themselves.,Staff Training (Food),Food,action needed waiter were ignoring u and chatting among themselves,70,10,0
+Front desk staff gave us wrong information about breakfast.,Staff Communication Training,Services,front desk staff gave u wrong information about breakfast,59,9,0
+Review: The carpet was stained and smelled of mold.,Deep Clean & Maintenance,Rooms,review the carpet wa stained and smelled of mold,51,9,-1
+Review: They refused to accept my voucher.,Compensate Guest,Food,review they refused to accept my voucher,42,7,0
+service in the restaurant was incredibly slow.,Staff Training (Food),Food,service in the restaurant wa incredibly slow,46,7,0
+Review: The toilet wasn't flushed when we arrived.,Deep Clean & Maintenance,Rooms,review the toilet wasnt flushed when we arrived,50,8,0
+Not happy. Tour guide gave us incorrect historical info.,Recreation Staff Review,Recreation,not happy tour guide gave u incorrect historical info,56,9,0
+everything tastes like frozen food reheated.,Revise Menu Quality,Food,everything taste like frozen food reheated,44,6,0
+Not happy. Staff didn't know the ingredients of the dishes.,Staff Training (Food),Food,not happy staff didnt know the ingredient of the dish,59,10,0
+Review: Our anniversary dinner was ruined by the terrible service.,Compensate Guest,Food,review our anniversary dinner wa ruined by the terrible service,66,10,-1
+Review:  Filtration system was making a loud noise.,Pool Maintenance,Recreation,review filtration system wa making a loud noise,51,8,0
+saw ants marching across the bathroom sink.,Pest Control Investigation,Rooms,saw ant marching across the bathroom sink,43,7,0
+the bathroom tiles had mold in the grout.,Deep Clean & Maintenance,Rooms,the bathroom tile had mold in the grout,41,8,-1
+Action needed: Front desk staff gave us wrong information about breakfast.,Staff Communication Training,Services,action needed front desk staff gave u wrong information about breakfast,74,11,0
+I think I saw a mouse behind the curtain.,Pest Control Investigation,Rooms,i think i saw a mouse behind the curtain,41,9,0
+Not happy. Staff got my order wrong three times.,Staff Training (Food),Food,not happy staff got my order wrong three time,48,9,0
+"Honestly, front desk staff gave us wrong information about breakfast.",Staff Communication Training,Services,honestly front desk staff gave u wrong information about breakfast,69,10,0
+Review: Seasonal dishes listed on the menu were not available.,Revise Menu Quality,Food,review seasonal dish listed on the menu were not available,62,10,0
+They refused to accept my voucher.,Compensate Guest,Food,they refused to accept my voucher,34,6,0
+Review: Called reception but no one answered the phone.,Staff Communication Training,Services,review called reception but no one answered the phone,55,9,0
+Pool attendant refused to give me a towel. Terrible.,Recreation Staff Review,Recreation,pool attendant refused to give me a towel terrible,52,9,-1
+Feedback: Pool shower wasn't working.,Pool Maintenance,Recreation,feedback pool shower wasnt working,37,5,0
+Staff was arguing loudly in the hallway.,Disciplinary Action,Services,staff wa arguing loudly in the hallway,40,7,0
+the server was rude when i asked for water.,Staff Training (Food),Food,the server wa rude when i asked for water,43,9,-1
+"Review: The gym smells like sweat, no ventilation.",Update Gym Equipment,Recreation,review the gym smell like sweat no ventilation,50,8,0
+Not happy. Staff seemed confused by the check-in software.,Review Check-in Process,Services,not happy staff seemed confused by the checkin software,58,9,0
+Cockroach in the shower. Terrible.,Pest Control Investigation,Rooms,cockroach in the shower terrible,34,5,-1
+Feedback: I want a refund for this terrible meal.,Compensate Guest,Food,feedback i want a refund for this terrible meal,49,9,-1
+Kids club staff seemed bored and inattentive.,Recreation Staff Review,Recreation,kid club staff seemed bored and inattentive,45,7,0
+Room wasn't ready at 4 PM check-in time. Terrible.,Review Check-in Process,Services,room wasnt ready at pm checkin time terrible,50,9,-1
+Feedback: They refused to accept my voucher.,Compensate Guest,Food,feedback they refused to accept my voucher,44,7,0
+Feedback: Scum line around the edge of the pool.,Pool Maintenance,Recreation,feedback scum line around the edge of the pool,48,9,0
+Not happy. No one came to clear our table for 30 minutes.,Staff Training (Food),Food,not happy no one came to clear our table for minute,57,12,0
+Not happy. The TV is tiny and has no channels.,Upgrade Room Amenities,Rooms,not happy the tv is tiny and ha no channel,46,10,0
+Not happy. Service in the restaurant was incredibly slow.,Staff Training (Food),Food,not happy service in the restaurant wa incredibly slow,57,9,0
+"Honestly, there was a spider on the pillow.",Pest Control Investigation,Rooms,honestly there wa a spider on the pillow,43,8,0
+"Too much chlorine in the pool, burned my eyes.",Pool Maintenance,Recreation,too much chlorine in the pool burned my eye,46,9,0
+"Honestly, beach staff demanded tips for chairs.",Recreation Staff Review,Recreation,honestly beach staff demanded tip for chair,47,7,0
+they forgot to give us our wake-up call.,Staff Communication Training,Services,they forgot to give u our wakeup call,40,8,0
+Cable machine is stuck and dangerous. Terrible.,Update Gym Equipment,Recreation,cable machine is stuck and dangerous terrible,47,7,-1
+Action needed: The server was rude when I asked for water.,Staff Training (Food),Food,action needed the server wa rude when i asked for water,58,11,-1
+Action needed: Valet scratched my car and denied it.,Disciplinary Action,Services,action needed valet scratched my car and denied it,52,9,0
+The waiter spilled soup on me and didn't apologize. Terrible.,Staff Training (Food),Food,the waiter spilled soup on me and didnt apologize terrible,61,10,-1
+"Honestly, the coffee was burnt and bitter.",Revise Menu Quality,Food,honestly the coffee wa burnt and bitter,42,7,0
+"Honestly, the coffee was burnt and bitter.",Revise Menu Quality,Food,honestly the coffee wa burnt and bitter,42,7,0
+Feedback: Employee was on their phone ignoring guests.,Disciplinary Action,Services,feedback employee wa on their phone ignoring guest,54,8,0
+Pool attendant refused to give me a towel.,Recreation Staff Review,Recreation,pool attendant refused to give me a towel,42,8,0
+Review: Dead bugs on the windowsill.,Deep Clean & Maintenance,Rooms,review dead bug on the windowsill,36,6,0
+The buffet area looked unclean and messy. Terrible.,Inspect Kitchen Hygiene,Food,the buffet area looked unclean and messy terrible,51,8,-1
+check-in line was huge and only one counter open.,Review Check-in Process,Services,checkin line wa huge and only one counter open,49,9,0
+Not happy. Saw a cockroach near the kitchen entrance.,Inspect Kitchen Hygiene,Food,not happy saw a cockroach near the kitchen entrance,53,9,0
+"Honestly, unprofessional behavior from the night manager.",Disciplinary Action,Services,honestly unprofessional behavior from the night manager,57,7,0
+Not happy. Water looked stagnant and dirty.,Pool Maintenance,Recreation,not happy water looked stagnant and dirty,43,7,-1
+Not happy. The food tasted slightly spoiled and smelled bad.,Inspect Kitchen Hygiene,Food,not happy the food tasted slightly spoiled and smelled bad,60,10,-1
+Review: Lobby is chaotic and disorganized.,Review Check-in Process,Services,review lobby is chaotic and disorganized,42,6,0
+Feedback: Minibar was empty and not working.,Upgrade Room Amenities,Rooms,feedback minibar wa empty and not working,44,7,0
+Feedback: Conflicting information from different staff members.,Staff Communication Training,Services,feedback conflicting information from different staff member,63,7,0
+"Honestly, concierge was unable to give simple directions.",Staff Communication Training,Services,honestly concierge wa unable to give simple direction,57,8,0
+Action needed: Dead bugs on the windowsill.,Deep Clean & Maintenance,Rooms,action needed dead bug on the windowsill,43,7,0
+No water or towels available in the gym. Terrible.,Update Gym Equipment,Recreation,no water or towel available in the gym terrible,50,9,-1
+Not happy. The presentation of the dishes was poor.,Revise Menu Quality,Food,not happy the presentation of the dish wa poor,51,9,-1
+"Honestly, debris and leaves floating in the water.",Pool Maintenance,Recreation,honestly debris and leaf floating in the water,50,8,0
+"We waited 2 hours for our food, this is unacceptable. Terrible.",Compensate Guest,Food,we waited hour for our food this is unacceptable terrible,63,11,-1
+Not happy. The TV is tiny and has no channels.,Upgrade Room Amenities,Rooms,not happy the tv is tiny and ha no channel,46,10,0
+The bill included a service charge that was not mentioned. Terrible.,Compensate Guest,Food,the bill included a service charge that wa not mentioned terrible,68,11,-1
+Action needed: Staff got my order wrong three times.,Staff Training (Food),Food,action needed staff got my order wrong three time,52,9,0
+Not happy. Priority check-in for members was not honored.,Review Check-in Process,Services,not happy priority checkin for member wa not honored,57,9,0
+Action needed: I want a refund for this terrible meal.,Compensate Guest,Food,action needed i want a refund for this terrible meal,54,10,-1
+misunderstanding about the room rate caused issues.,Staff Communication Training,Services,misunderstanding about the room rate caused issue,51,7,0
+"Honestly, check-in line was huge and only one counter open.",Review Check-in Process,Services,honestly checkin line wa huge and only one counter open,59,10,0
+Gym equipment is ancient and rusty. Terrible.,Update Gym Equipment,Recreation,gym equipment is ancient and rusty terrible,45,7,-1
+"Honestly, they lost our reservation even though we booked weeks ago.",Compensate Guest,Food,honestly they lost our reservation even though we booked week ago,68,11,0
+Feedback: There was a spider on the pillow.,Pest Control Investigation,Rooms,feedback there wa a spider on the pillow,43,8,0
+"Review: Worst dining experience ever, I expect compensation.",Compensate Guest,Food,review worst dining experience ever i expect compensation,60,8,-1
+Review: Restaurant manager was shouting at the staff.,Staff Training (Food),Food,review restaurant manager wa shouting at the staff,53,8,0
+Employee was on their phone ignoring guests.,Disciplinary Action,Services,employee wa on their phone ignoring guest,44,7,0
+Not happy. The pasta was overcooked and mushy.,Revise Menu Quality,Food,not happy the pasta wa overcooked and mushy,46,8,0
+Review: Elliptical machine makes a squeaking sound.,Update Gym Equipment,Recreation,review elliptical machine make a squeaking sound,51,7,0
+Feedback: The plates were dirty and had leftover food stains.,Inspect Kitchen Hygiene,Food,feedback the plate were dirty and had leftover food stain,61,10,-1
+Curtains were dusty and triggered my allergies.,Deep Clean & Maintenance,Rooms,curtain were dusty and triggered my allergy,47,7,0
+Review: I got food poisoning after eating the seafood.,Inspect Kitchen Hygiene,Food,review i got food poisoning after eating the seafood,54,9,0
+Not happy. Staff member was smoking right outside the lobby door.,Disciplinary Action,Services,not happy staff member wa smoking right outside the lobby door,65,11,0
+"Honestly, the pasta was overcooked and mushy.",Revise Menu Quality,Food,honestly the pasta wa overcooked and mushy,45,7,0
+Entertainment team was low energy and boring. Terrible.,Recreation Staff Review,Recreation,entertainment team wa low energy and boring terrible,55,8,-1
+"Honestly, security guard was sleeping on the job.",Disciplinary Action,Services,honestly security guard wa sleeping on the job,49,8,0
+The server was rude when I asked for water.,Staff Training (Food),Food,the server wa rude when i asked for water,43,9,-1
+Not happy. The toilet wasn't flushed when we arrived.,Deep Clean & Maintenance,Rooms,not happy the toilet wasnt flushed when we arrived,53,9,0
+Review: I found a hair in my food.,Inspect Kitchen Hygiene,Food,review i found a hair in my food,34,8,0
+windows were dirty and hard to see through.,Deep Clean & Maintenance,Rooms,window were dirty and hard to see through,43,8,-1
+Review: Cockroach in the shower.,Pest Control Investigation,Rooms,review cockroach in the shower,32,5,0
+Not happy. Minibar was empty and not working.,Upgrade Room Amenities,Rooms,not happy minibar wa empty and not working,45,8,0
+Action needed: Not enough weights for a proper workout.,Update Gym Equipment,Recreation,action needed not enough weight for a proper workout,55,9,0
+Review: Tiles around the pool are broken and sharp.,Pool Maintenance,Recreation,review tile around the pool are broken and sharp,51,9,-1
+restaurant manager was shouting at the staff.,Staff Training (Food),Food,restaurant manager wa shouting at the staff,45,7,0
+Action needed: Waiters were ignoring us and chatting among themselves.,Staff Training (Food),Food,action needed waiter were ignoring u and chatting among themselves,70,10,0
+Review: Elliptical machine makes a squeaking sound.,Update Gym Equipment,Recreation,review elliptical machine make a squeaking sound,51,7,0
+Feedback: Not enough vegetarian or vegan options.,Revise Menu Quality,Food,feedback not enough vegetarian or vegan option,49,7,0
+"Honestly, the coffee was burnt and bitter.",Revise Menu Quality,Food,honestly the coffee wa burnt and bitter,42,7,0
+The TV is tiny and has no channels.,Upgrade Room Amenities,Rooms,the tv is tiny and ha no channel,35,8,0
+Not happy. The pillows are lumpy and uncomfortable.,Upgrade Room Amenities,Rooms,not happy the pillow are lumpy and uncomfortable,51,8,0
+Review: Curtains were dusty and triggered my allergies.,Deep Clean & Maintenance,Rooms,review curtain were dusty and triggered my allergy,55,8,0
+Action needed: Service in the restaurant was incredibly slow.,Staff Training (Food),Food,action needed service in the restaurant wa incredibly slow,61,9,0
+It took 45 minutes just to check in.,Review Check-in Process,Services,it took minute just to check in,36,8,0
+Gym is too small for the number of guests. Terrible.,Update Gym Equipment,Recreation,gym is too small for the number of guest terrible,52,10,-2
+Not happy. Bartender was visibly drunk.,Disciplinary Action,Services,not happy bartender wa visibly drunk,39,6,0
+They demanded a cash deposit unexpectedly.,Review Check-in Process,Services,they demanded a cash deposit unexpectedly,42,6,0
+Review: No iron or ironing board in the room.,Upgrade Room Amenities,Rooms,review no iron or ironing board in the room,45,9,0
+Action needed: Room wasn't ready at 4 PM check-in time.,Review Check-in Process,Services,action needed room wasnt ready at pm checkin time,55,10,0
+wifi signal is too weak to work in the room.,Upgrade Room Amenities,Rooms,wifi signal is too weak to work in the room,44,10,0
+Not happy. Front desk staff gave us wrong information about breakfast.,Staff Communication Training,Services,not happy front desk staff gave u wrong information about breakfast,70,11,0
+there was a strange object in the soup.,Inspect Kitchen Hygiene,Food,there wa a strange object in the soup,39,8,0

@@ -1,0 +1,9 @@
+{
+  "model_type": "Logistic Regression (Calibration-Optimized)",
+  "regularization": "C=0.1",
+  "label_noise": "5%",
+  "test_accuracy": 1.0,
+  "test_f1": 1.0,
+  "val_accuracy": 1.0,
+  "val_f1": 1.0
+}

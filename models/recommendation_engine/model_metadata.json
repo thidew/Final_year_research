@@ -1,0 +1,24 @@
+{
+  "model_name": "Random Forest",
+  "num_actions": 13,
+  "actions": [
+    "Compensate Guest",
+    "Deep Clean & Maintenance",
+    "Disciplinary Action",
+    "Inspect Kitchen Hygiene",
+    "Pest Control Investigation",
+    "Pool Maintenance",
+    "Recreation Staff Review",
+    "Review Check-in Process",
+    "Revise Menu Quality",
+    "Staff Communication Training",
+    "Staff Training (Food)",
+    "Update Gym Equipment",
+    "Upgrade Room Amenities"
+  ],
+  "test_accuracy": 0.9602564102564103,
+  "test_f1_score": 0.9622662774672459,
+  "val_accuracy": 0.9512820512820512,
+  "val_f1_score": 0.9551599523227633,
+  "trained_date": "2025-12-28T20:30:16.971361"
+}
